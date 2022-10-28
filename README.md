@@ -7,10 +7,10 @@
  - 🔭  interested in Mobile, Web, DevOps
  - ✳️  currently focus on flutter project 
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ljy2855&repo=cspc_recog_app)](https://github.com/ljy2855/cspc_recog_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ljy2855&repo=shuroop_client_app)](https://github.com/ljy2855/shuroop_client_app)
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ljy2855/cspc_recog_app)
+![GitHub last commit](https://img.shields.io/github/last-commit/ljy2855/shuroop_client_app)
 
 
 
