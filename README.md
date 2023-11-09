@@ -5,12 +5,13 @@
 
  - 📖  majoring in Computer Science at Sogang Univ
  - 🔭  interested in Mobile, Web, DevOps
- - ✳️  currently focus on flutter project 
+ - ✳️  now focus on school course
+
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ljy2855&repo=shuroop_client_app)](https://github.com/ljy2855/shuroop_client_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ljy2855&repo=pintos)](https://github.com/ljy2855/pintos)
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ljy2855/shuroop_client_app)
+
 
 
 
