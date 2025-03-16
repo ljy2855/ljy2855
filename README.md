@@ -5,4 +5,3 @@
 
  - 📖  majoring in Computer Science at Sogang Univ
  - 🔭  interested in Backend, DevOps
- - ✳️  software maestro courses in progress
