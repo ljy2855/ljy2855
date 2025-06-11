@@ -2,9 +2,10 @@
 ### Hi there 👋
 #### I'm Jin Yong Lee
 
-![Visitor Count](https://hits.cspc.me/widget/profile/3a6c9035-0081-4b93-9052-a22d3cebcb69)
+<a href="https://hits.cspc.me">
+    <img src="https://hits.cspc.me/widget/profile/3a6c9035-0081-4b93-9052-a22d3cebcb69">
+</a>
 
-[hits repo](https://github.com/ljy2855/hits)
 
  - 📖  majoring in Computer Science at Sogang Univ
  - 🔭  interested in Backend, DevOps
