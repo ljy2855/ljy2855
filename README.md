@@ -10,4 +10,4 @@
 <br/>
 
  - 📖  majoring in Computer Science at Sogang Univ
- - 🔭  interested in Backend, DevOps
+ - 🔭  interested in Infra, DevOps
